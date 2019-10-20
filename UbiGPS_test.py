@@ -5,7 +5,7 @@ import serial
 
 port = "/dev/ttyS0"
 
-TOKEN = "BBFF-m4n4owKIz7YTv6RoUNKQODEVrMuLev"  # Put your TOKEN here
+TOKEN = "XXXXXXXXXXXXXXXXXXXXXX"  # Put your TOKEN here
 DEVICE_LABEL = "RaspberryPi"  # Put your device label here
 VARIABLE_LABEL_1 = "GPS"  # Put your first variable label here
 
