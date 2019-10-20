@@ -86,8 +86,6 @@ def main():
     post_request(payload)
     print("[INFO] finished")
 
-
-if __name__ == '__main__':
-    while (True):
-        main()
-        time.sleep(1)
+while (True):
+    main()
+    time.sleep(1)
